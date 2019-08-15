@@ -1,0 +1,2 @@
+Name£ºarchetypeCatalog
+Value:internal
